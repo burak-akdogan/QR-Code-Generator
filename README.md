@@ -7,6 +7,8 @@ A modern, lightweight desktop QR code generator built with Python and CustomTkin
 ## Screenshot
 
 > Run the app and generate your first QR code to see it in action.
+<img width="1100" height="749" alt="image" src="https://github.com/user-attachments/assets/aa907266-b85e-4bdd-9dac-3703dc8e3a0d" />
+
 
 ---
 
